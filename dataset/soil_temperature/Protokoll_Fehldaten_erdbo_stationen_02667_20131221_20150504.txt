@@ -1,0 +1,1 @@
+Terminwerte_Erdbodentemp der Parameter TE02 der Station  02667 des Messnetzes 102 fuer den Zeitraum 20131221 20150504 fehlen.
